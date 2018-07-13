@@ -11,7 +11,7 @@ Other changes:
  - Remove dependency to `android-gif-drawable` lib and use Glide to animate logo on Splashscreen (#2421)
 
 Bugfix:
- -
+ - Messages with code blocks show other HTML as plain text (#2280)
 
 Translations:
  -
